@@ -8,7 +8,7 @@ Esta es una aplicacion que hace uso de Express para crear el RestServer, tiene u
 
 - Conectarnos a MySQL desde Node
 
-- Crear un CRUD usando Sequelize - ODM (Parecido a Mongoose)
+- Crear un CRUD usando Sequelize - ORM (Parecido a Mongoose)
 
 ## **RECOMENDACIONES**
 
@@ -22,6 +22,6 @@ npm install
 ```
 Y para correr la aplicación con:
 ```
-node app.js
+node dist/app.js
 ```
 
